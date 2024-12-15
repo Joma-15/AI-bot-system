@@ -7,7 +7,7 @@ import requests
 environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'
 import pygame
 
-
+#hi
 ai_response = ""
 
 load_dotenv()
